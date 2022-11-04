@@ -1,1 +1,1 @@
-<? include_once('index2.html');?>
+<? include_once('./index2.html');?>
